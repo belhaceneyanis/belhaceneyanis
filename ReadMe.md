@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-based projects focused on problem solving.<br><br>👯 I’m looking to collaborate on<br>Machine Learning / Deep Learning projects and beginner-friendly AI applications.<br><br>🤝 I’m looking for help with<br>Deep Learning concepts, real-world AI deployment, and improving model performance.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning and moving deeper into Deep Learning.<br><br>💬 Ask me about<br>C programming, data structures & algorithms, AI/ML basics, or UI/UX & graphic design.<br><br>⚡ Fun fact<br>I like combining AI with good design ,  building systems that are both intelligent *and* visually clean.<br>
+🔭 I’m currently working on<br>AI-based projects focused on solving real world problems.<br><br>👯 I’m looking to collaborate on<br>Machine Learning / Deep Learning projects and beginner-friendly AI applications.<br><br>🤝 I’m looking for help with<br>Deep Learning concepts, real-world AI deployment, and improving model performance.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning and moving deeper into Deep Learning.<br><br>💬 Ask me about<br>C programming, data structures & algorithms, AI/ML basics, or UI/UX & graphic design.<br><br>⚡ Fun fact<br>I like combining AI with good design ,  building systems that are both intelligent *and* visually clean.<br>
 
 
 ## 🌐 Socials:
